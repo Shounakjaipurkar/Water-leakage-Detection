@@ -23,3 +23,8 @@ The code compares the inlet and outlet flow. If the difference is above a thresh
 
 ## 📜 License
 MIT License
+
+## 📸 Project Photo
+
+![Water Leakage Detector]()
+
