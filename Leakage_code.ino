@@ -1,3 +1,5 @@
+//Directly Download the file & open it.
+
 #define FLOW_SENSOR_INLET 16  // GPIO pin for Inlet Flow Sensor
 #define FLOW_SENSOR_OUTLET 17 // GPIO pin for Outlet Flow Sensor
 #define BUZZER_PIN 26         // GPIO pin for Buzzer
