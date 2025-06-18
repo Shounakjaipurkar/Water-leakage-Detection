@@ -26,5 +26,5 @@ MIT License
 
 ## 📸 Project Photo
 
-![Water Leakage Detector]()
+![Water Leakage Detector](https://github.com/Shounakjaipurkar/Water-leakage-Detection/blob/main/Leakage.jpg)
 
