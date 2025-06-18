@@ -1,3 +1,4 @@
+#Learning
 # 💧 Water Leakage Detection System (ESP32 + Blynk)
 
 This project detects water leakage using flow sensors and notifies the user via Blynk IoT. It also displays flow rates on an LCD and triggers a buzzer when leakage is detected.
@@ -20,9 +21,6 @@ This project detects water leakage using flow sensors and notifies the user via 
 
 ## 🧠 How It Works
 The code compares the inlet and outlet flow. If the difference is above a threshold, it assumes leakage and alerts via Blynk + buzzer.
-
-## 📜 License
-MIT License
 
 ## 📸 Project Photo
 
